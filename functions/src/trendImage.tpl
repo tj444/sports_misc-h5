@@ -19,18 +19,18 @@
             }
 
             #container-center {
-                background-image: url("http://cdn.elmerzhang.com/sporttery/trends/bg_center.jpg");
+                background-image: url("https://img.yanjing666.cn/item/610b789c5132923bf8cc6dfe.jpg");
                 background-position-y: 300px;
             }
 
             #container-header {
-                background-image: url("http://cdn.elmerzhang.com/sporttery/trends/bg_head.jpg");
+                background-image: url("https://img.yanjing666.cn/item/610b78b65132923bf8ccc6b4.jpg");
                 background-position: top;
                 background-repeat: no-repeat;
             }
 
             #container-footer {
-                background-image: url("http://cdn.elmerzhang.com/sporttery/trends/bg_footer.jpg");
+                background-image: url("https://img.yanjing666.cn/item/610b78cb5132923bf8cd04e0.jpg");
                 background-position: bottom;
                 background-repeat: no-repeat;
             }
@@ -195,7 +195,7 @@
                     <div id="info-container">
                         <div id="qrcode">
                             <div id="qrcode-title">联系店主</div>
-                            <img src="http://cdn.elmerzhang.com/sporttery/trends/upload_qrcode.png">
+                            <img src="https://img.yanjing666.cn/item/610b78e65132923bf8cd5409.png">
                         </div>
                         <div id="miss-table">
                             //MISS_TABLE//
