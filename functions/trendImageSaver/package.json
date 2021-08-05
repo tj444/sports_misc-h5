@@ -9,7 +9,7 @@
   "dependencies": {
     "puppeteer-core": "^1.4.0",
     "qiniu": "^7.3.2",
-    "tar": "^4.4.4"
+    "tar": "^4.4.15"
   },
   "author": "Vangie Du",
   "license": "ISC",
